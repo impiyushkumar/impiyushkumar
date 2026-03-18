@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0ea5e9&height=200&section=header&text=Piyush%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Cloud%20Engineer%20%7C%20ML%20Enthusiast&descSize=18&descAlignY=60&descColor=94a3b8&animation=fadeIn" />
 
 <!-- Social badges -->
-<a href="https://www.linkedin.com/in/impiyushkumar/">
+<a href="https://www.linkedin.com/in/impiyushkumar0/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://x.com/PyDataWizard">
@@ -100,7 +100,7 @@ piyush = {
       <img src="https://img.shields.io/badge/LIVE-brightgreen?style=flat" />
     </td>
     <td width="50%" valign="top">
-      <h3>💼 <a href="https://github.com/impiyushkumar">Job Data Hub</a></h3>
+      <h3>💼 <a href="https://github.com/impiyushkumar">TechJobs</a></h3>
       <p>Germany-focused <strong>job listing platform</strong> with automated scraping pipelines, deployed on AWS EC2 with scheduled backend automation for 24/7 operation.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat&logo=amazonaws&logoColor=white" />

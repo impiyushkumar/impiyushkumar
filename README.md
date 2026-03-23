@@ -101,7 +101,7 @@ piyush = {
     </td>
     <td width="50%" valign="top">
       <h3>💼 <a href="https://github.com/impiyushkumar">TechJobs</a></h3>
-      <p>Germany-focused <strong>job listing platform</strong> with automated scraping pipelines, deployed on AWS EC2 with scheduled backend automation for 24/7 operation.</p>
+      <p>India-focused <strong>job listing platform</strong> with automated scraping pipelines, deployed on AWS EC2 with scheduled backend automation for 24/7 operation.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat&logo=amazonaws&logoColor=white" />
       <img src="https://img.shields.io/badge/Web_Scraping-4285F4?style=flat" />

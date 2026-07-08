@@ -29,11 +29,11 @@
 
 ```python
 piyush = {
-    "role"     : ["Data Analyst", "Cloud Engineer", "ML Enthusiast"],
+    "role"     : ["Data Analyst", "Cloud Engineer", Data & Backend Engineer "ML Enthusiast"],
     "education": "B.Tech CSE (AIML) @ LNCT Bhopal — Graduating Jul 2026",
     "currently": "Cloud Computing Intern @ Global BlueGrid IT Solutions",
     "skills"   : ["Python", "SQL", "GCP", "AWS", "Power BI", "Machine Learning"],
-    "interests": ["Data Analytics", "Cloud Infrastructure", "AI Automation"],
+    "interests": ["Data Analytics", "Cloud Infrastructure", "Backend Devlopment", "AI Automation"],
     "contact"  : "piyushkumar5435@gmail.com"
 }
 ```

@@ -15,7 +15,7 @@ Software Engineer · Cloud & AI/ML · Data · Mumbai
 
 <img src="assets/stats.svg" width="100%" alt="790+ users on platforms I run · 4,000+ jobs aggregated · 46× sign-up growth · 3 AI apps shipped">
 
-**Now:** Cloud & AI Automation Engineer at [EnglishJobsGermany](https://englishjobsgermany.com/), where I run the servers, migrated the platform from AWS to GCP, and build Gemini automations.
+**Now:** Cloud & AI Automation Engineer at [EnglishJobsGermany](https://englishjobsgermany.com/), where I run the servers, migrated the platform from AWS to GCP, and build AI automations.
 
 ### Things I've built
 

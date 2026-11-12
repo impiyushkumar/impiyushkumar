@@ -2,24 +2,20 @@
 
 <img src="assets/walker.svg" width="100%" alt="Pixel character walking: hi, I'm Piyush">
 
-<a href="https://impiyushkumar.github.io/"><img src="https://readme-typing-svg.demolab.com?font=Hanken+Grotesk&weight=600&size=26&duration=2800&pause=900&color=2F5BFF&center=true&vCenter=true&width=560&height=50&lines=hi%2C+I'm+Piyush+%F0%9F%91%8B;I+ship+from+code+to+cloud+%E2%98%81%EF%B8%8F;I+build+AI+that+listens%2C+speaks+%26+reads;currently+keeping+servers+alive" alt="Typing intro"></a>
+<a href="https://impiyushkumar.github.io/"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Hanken+Grotesk&weight=600&size=26&duration=2800&pause=900&color=ECEEF3&center=true&vCenter=true&width=560&height=50&lines=hi%2C+I'm+Piyush+%F0%9F%91%8B;I+ship+from+code+to+cloud+%E2%98%81%EF%B8%8F;I+build+AI+that+listens%2C+speaks+%26+reads;currently+keeping+servers+alive">
+  <img alt="Typing intro" src="https://readme-typing-svg.demolab.com?font=Hanken+Grotesk&weight=600&size=26&duration=2800&pause=900&color=111318&center=true&vCenter=true&width=560&height=50&lines=hi%2C+I'm+Piyush+%F0%9F%91%8B;I+ship+from+code+to+cloud+%E2%98%81%EF%B8%8F;I+build+AI+that+listens%2C+speaks+%26+reads;currently+keeping+servers+alive">
+</picture></a>
 
-Software Engineer · Cloud & AI · Data · Mumbai
+Software Engineer · Cloud & AI/ML · Data · Mumbai
 
 [Portfolio](https://impiyushkumar.github.io/) · [LinkedIn](https://www.linkedin.com/in/impiyushkumar0/) · [X](https://x.com/pydatawiz) · [Email](mailto:piyushkumar5435@gmail.com) · [Resume](https://impiyushkumar.github.io/resume/Piyush_Kumar_Resume.pdf)
 
 </div>
 
-```js
-const piyush = {
-  now:      "Cloud & AI Automation Engineer @ EnglishJobsGermany",
-  shipped:  ["jobmesh.in", "PronounceAI", "VedaAI", "Multilingual TTS"],
-  servers:  "migrated a live platform from AWS → GCP without breaking it",
-  stack:    ["TypeScript", "Python", "Next.js", "FastAPI", "Docker", "GCP", "Gemini"],
-  lookingFor: "full-time roles in AI, software, cloud and data",
-  funFact:  "my portfolio has a tiny guy who falls asleep if you ignore him",
-};
-```
+<img src="assets/stats.svg" width="100%" alt="790+ users on platforms I run · 4,000+ jobs aggregated · 46× sign-up growth · 3 AI apps shipped">
+
+**Now:** Cloud & AI Automation Engineer at [EnglishJobsGermany](https://englishjobsgermany.com/), where I run the servers, migrated the platform from AWS to GCP, and build Gemini automations.
 
 ### Things I've built
 

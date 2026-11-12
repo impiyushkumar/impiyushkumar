@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="132" viewBox="0 0 820 132">
+<style>
+.box{fill:#ffffff;stroke:#e3e6ec} .ln{stroke:#e3e6ec}
+.n{font:700 30px ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif;fill:#111318;letter-spacing:-.5px}
+.l{font:400 13px ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif;fill:#636a78}
+.h{font:500 12px ui-monospace,SFMono-Regular,Menlo,monospace;fill:#636a78}
+.ok{fill:#16a34a} .okt{font:500 12px ui-sans-serif,system-ui,sans-serif;fill:#16a34a} .okb{fill:#dcfce7}
+@media (prefers-color-scheme: dark){.box{fill:#0d1117;stroke:#30363d} .ln{stroke:#30363d} .n{fill:#eceef3} .l,.h{fill:#9097a6} .ok,.okt{fill:#4ade80} .okt{fill:#4ade80} .okb{fill:#12301f}}
+.c{opacity:0;animation:up .8s cubic-bezier(.2,.7,.2,1) forwards}
+@keyframes up{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+.dot{animation:p 2s ease-in-out infinite} @keyframes p{50%{opacity:.3}}
+</style>
+<rect class="box" x="1" y="1" width="818" height="130" rx="14"/>
+<text class="h" x="22" y="28">~/piyush · by the numbers</text>
+<rect class="okb" x="624" y="13" width="176" height="22" rx="11"/>
+<circle class="ok dot" cx="638" cy="24" r="3.5"/>
+<text class="okt" x="648" y="28">open to full-time roles</text>
+<line class="ln" x1="0" y1="42" x2="820" y2="42"/>
+<g class="c" style="animation-delay:0.15s"><text class="n" x="22.0" y="78">790+</text><text class="l" x="22.0" y="104">users on platforms I run</text></g><g class="c" style="animation-delay:0.33s"><text class="n" x="227.0" y="78">4,000+</text><text class="l" x="227.0" y="104">jobs aggregated on JobMesh</text></g><line class="ln" x1="205.0" y1="44" x2="205.0" y2="118"/><g class="c" style="animation-delay:0.51s"><text class="n" x="432.0" y="78">46×</text><text class="l" x="432.0" y="104">sign-up growth, zero ads</text></g><line class="ln" x1="410.0" y1="44" x2="410.0" y2="118"/><g class="c" style="animation-delay:0.69s"><text class="n" x="637.0" y="78">3</text><text class="l" x="637.0" y="104">AI apps shipped</text></g><line class="ln" x1="615.0" y1="44" x2="615.0" y2="118"/>
+</svg>
